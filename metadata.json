@@ -1,0 +1,5 @@
+{
+  "name": "CosmicMath Particles",
+  "description": "A high-performance interactive 3D particle system visualizing mathematical beauty through chaos and order. Features 30,000 particles morphing between complex curves with a user-friendly editor.",
+  "requestFramePermissions": []
+}
